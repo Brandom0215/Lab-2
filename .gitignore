@@ -1,0 +1,55 @@
+# ==========================================
+# Visual Basic .NET / Visual Studio
+# ==========================================
+
+# Archivos compilados
+bin/
+obj/
+
+# Configuración personal de Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Resultados de compilación
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Visual Studio Code (si lo usas)
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos generados durante compilación
+*.dll
+*.exe
+*.pdb
+*.cache
+
+# Test results
+TestResults/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Copias de seguridad de Visual Studio
+Backup*/
+_ReSharper*/
